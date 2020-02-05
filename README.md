@@ -1,7 +1,7 @@
 <!--
  * @Author: tanlx
  * @Date: 2020-02-04 12:33:13
- * @LastEditTime : 2020-02-04 12:55:18
+ * @LastEditTime : 2020-02-04 23:16:36
  * @Description: file content
  -->
 # AI_Engineer
@@ -27,7 +27,8 @@ Knowledge points for AI Engineer
 
 【案例】
 - 基于QP的股票投资组合策略设计
-- 基于LP的短文本相似度计算- 基于KNN的图像识别
+- 基于LP的短文本相似度计算
+- 基于KNN的图像识别
 
 
 ## SVM与集成模型
