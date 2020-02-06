@@ -1,7 +1,7 @@
 <!--
  * @Author: tanlx
  * @Date: 2020-02-04 12:33:13
- * @LastEditTime : 2020-02-04 23:16:36
+ * @LastEditTime : 2020-02-05 22:24:31
  * @Description: file content
  -->
 # AI_Engineer
@@ -10,7 +10,7 @@ Knowledge points for AI Engineer
 
 ## 机器学习基础与凸优化
 
-包含必要的算法理论以及凸优化技术，为后续的学习打下基础。凸优化的重要性不言而喻，如果想具备改造模型的能力，对于凸优化的理解是必不可少的。
+包含必要的算法理论以及凸优化技术。如果想具备改造模型的能力，对于凸优化的理解是必不可少的。
 
 【核心知识点】
 - KNN
@@ -156,9 +156,9 @@ Knowledge points for AI Engineer
 
 
  
-## 增强学习与其它主题
+## 增强学习
 
-包含增强学习在文本领域的应用，GAN, VAE，图片和文本的Disentangling，深度学习领域可解释性问题、Adversial Learning, Fair Learning等最前沿的主题。
+包含增强学习在文本领域的应用，GAN, VAE，图片和文本的Disentangling，深度学习领域可解释性问题、Adversial Learning, Fair Learning等主题。
 
 【核心知识点】
 - Policy Learning、Deep RL
@@ -180,6 +180,16 @@ Knowledge points for AI Engineer
 - 可视化机器翻译系统
 
 
+## 图算法与图分析
+
+主要用于挖掘实体间的关系，用于关联分析，金融风控等。
+
+
+## 工程优化
+
+包含搭建应用平台的一些技巧。
+
+
 ## 实战项目
 
 1. 人脸识别基于Kernel PCA的思路, 实现 Kernel LDA(Linear Discriminant Analysis). 使用Kernel LDA进行人脸识别。
@@ -188,5 +198,5 @@ Knowledge points for AI Engineer
 2. 语音识别，基于HMM和GMM搭建一个语音识别系统，这个语音识别系统可用于IOT的场景中来识别各类命令。在项目中也需要使用常见的语音的特征如MFCC。
 
 
-3. 实时视频人脸美化
+3. 视频人脸美化
 在基于CNN人脸关键点检测的基础上, 实现一个人脸美化的算法, 给一副照片中的人脸加上墨镜。
