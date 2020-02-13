@@ -1,7 +1,7 @@
 <!--
  * @Author: tanlx
  * @Date: 2020-02-04 12:33:13
- * @LastEditTime : 2020-02-05 22:24:31
+ * @LastEditTime : 2020-02-10 16:11:51
  * @Description: file content
  -->
 # AI_Engineer
@@ -178,6 +178,11 @@ Knowledge points for AI Engineer
 - 基于GAN的图像生成
 - 基于VAE的文本Style Transfer
 - 可视化机器翻译系统
+
+
+## 自然语言处理
+
+自然语言处理（针对中文）
 
 
 ## 图算法与图分析
